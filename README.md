@@ -1,3 +1,3 @@
-# Javarush
+# JavarushQuests
 
 Ссылка: https://javarush.ru/
